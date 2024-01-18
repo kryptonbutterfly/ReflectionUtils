@@ -1,4 +1,4 @@
-module de.tinycodecrank.ReflectionUtils
+module kryptonbutterfly.ReflectionUtils
 {
-	exports de.tinycodecrank.reflectionUtils;
+	exports kryptonbutterfly.reflectionUtils;
 }

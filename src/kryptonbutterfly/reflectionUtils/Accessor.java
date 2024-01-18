@@ -1,4 +1,4 @@
-package de.tinycodecrank.reflectionUtils;
+package kryptonbutterfly.reflectionUtils;
 
 import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Member;
